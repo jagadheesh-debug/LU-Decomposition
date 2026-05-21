@@ -19,8 +19,8 @@ To write a program to find the LU Decomposition of a matrix.
 ```
 /*
 Program to find the L and U matrix.
-Developed by: MOHAMED ASARUDEEN A
-RegisterNumber: 25005844
+Developed by: Jagadheesh kumar T
+RegisterNumber: 212225040139
 */
 import numpy as np
 from scipy.linalg import lu
@@ -33,8 +33,8 @@ print(Umatrix)
 ```
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: MOHAMED ASARUDEEN A
-RegisterNumber: 25005844
+Developed by: Jagadheesh kumar T
+RegisterNumber: 212225040139
 */
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
@@ -46,9 +46,12 @@ print(Solution)
 ```
 
 ## Output:
-![lu decomposition]()
-<img width="905" height="942" alt="Screenshot 2025-11-21 204712" src="https://github.com/user-attachments/assets/1393c75a-2ae2-41f7-aaff-6b79b17e5f4a" />
-<img width="1312" height="902" alt="Screenshot 2025-11-21 204643" src="https://github.com/user-attachments/assets/7e027d4d-df43-441a-813a-48cbf43fa8bf" />
+
+<img width="1272" height="792" alt="Screenshot 2026-05-21 113631" src="https://github.com/user-attachments/assets/66a3b904-656f-4373-85c5-aceb6fc745b6" />
+<img width="1357" height="607" alt="Screenshot 2026-05-21 113710" src="https://github.com/user-attachments/assets/34dc3776-a52d-48bf-a904-16f62d1f6871" />
+<img width="1382" height="786" alt="Screenshot 2026-05-21 113657" src="https://github.com/user-attachments/assets/c8bdeabf-8ca8-4ca2-851d-9ef49e72b373" />
+<img width="1345" height="420" alt="Screenshot 2026-05-21 113721" src="https://github.com/user-attachments/assets/5e8f83b8-856b-4c98-bc57-622fef1a5f8a" />
+
 
 
 
